@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns5:Envelope
+        xmlns:tns="http://www.w3.org/2003/05/soap-encoding"
+        xmlns:wsa="http://schemas.xmlsoap.org/soap/envelope/"
+        xmlns:ns5="x">
+        <ns5:Header>
+
+        </ns5:Header>
+    <ns5:Body>
+        <note>
+            <to>Tove</to>
+            <from>Jani</from>
+            <heading>Reminder</heading>
+            <body>Don't forget me this weekend!</body>
+        </note>
+    </ns5:Body>
+
+</ns5:Envelope>
